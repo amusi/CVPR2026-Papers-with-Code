@@ -20,7 +20,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [Agent)](#Agent)
 - [Avatars](#Avatars)
 - [Backbone](#Backbone)
-- [CLIP](#CLIP)
+- [CLIP](#CLIP)EVOS
 - [Mamba](#Mamba)
 - [Embodied AI](#Embodied-AI)
 - [GAN](#GAN)
@@ -651,6 +651,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2501.08643
 - Code: https://github.com/Junda24/MonSter
 
+**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**
+
+- Project: https://insta360-research-team.github.io/DEFOM-Stereo/
+- Paper: https://arxiv.org/abs/2501.09466
+- Code: https://github.com/Insta360-Research-Team/DEFOM-Stereo
 
 
 <a name="Stereo-Matching"></a>
