@@ -7,6 +7,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 >
 > 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
 >
+> - [ICCV 2025](https://github.com/amusi/ICCV2025-Papers-with-Code)
 > - [ECCV 2024](https://github.com/amusi/ECCV2024-Papers-with-Code)
 > - [CVPR 2024](CVPR2024-Papers-with-Code.md)
 
