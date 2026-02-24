@@ -1,9 +1,9 @@
 # CVPR 2026 论文和开源项目合集(Papers with Code)
 
-CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
+CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 
-> 注1：欢迎各位大佬提交issue，分享CVPR 2025论文和开源项目！
+> 注1：欢迎各位大佬提交issue，分享CVPR 2026论文和开源项目！
 >
 > 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
 >
@@ -73,6 +73,7 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [行为检测(Action Detection)](#Action-Detection)
 - [具身智能(Embodied AI)](#Embodied)
+- [遥感(Remote)](#Remote)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [模型剪枝(Model Pruning)](#Pruning)
@@ -207,6 +208,15 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 视觉和语言(Vision-Language)
 
+**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**
+
+- Paper: https://arxiv.org/abs/2602.20089
+- Code: https://github.com/intelligolabs/StructXLIP
+
+**ApET: Approximation-Error Guided Token Compression for Efficient VLMs**
+
+- Paper: https://arxiv.org/abs/2602.19870
+- Code: https://github.com/MaQianKun0/ApET
 
 
 <a name="Object-Detection"></a>
@@ -303,7 +313,10 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 # 图像生成(Image Generation)
 
 
+ExpPortrait: Expressive Portrait Generation via Personalized Representation
 
+- Paper: https://arxiv.org/abs/2602.19900
+- Code: 
 
 
 <a name="Video-Generation"></a>
@@ -336,6 +349,22 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 3D重建(3D Reconstruction)
 
+**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**
+
+- Project: https://cwchenwang.github.io/tttLRM/
+- Paper: https://arxiv.org/abs/2602.20160
+- Code: https://github.com/cwchenwang/tttLRM
+
+**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**
+
+- Project: https://flow3r-project.github.io/
+- Paper: https://arxiv.org/abs/2602.20157
+- Code: https://github.com/Kidrauh/flow3r
+
+**RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing**
+
+- Paper: https://arxiv.org/abs/2602.19753
+- Code: https://github.com/yyyykf/RAP
 
 
 <a name="HMG"></a>
@@ -353,6 +382,15 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 # 具身智能(Embodied AI)
 
 
+
+<a name="Remote"></a>
+
+# 遥感(Remote)
+
+Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation
+
+- Paper: https://arxiv.org/abs/2602.19863
+- Code: None
 
 
 <a name="KD"></a>
@@ -425,5 +463,19 @@ CVPR 2025 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 其他(Others)
 
+**Decoupling Defense Strategies for Robust Image Watermarking**
+
+- Paper: https://arxiv.org/abs/2602.20053
+- Code: None
+
+**Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**
+
+- Paper: https://arxiv.org/abs/2602.19910
+- Code: 
+
+**The Invisible Gorilla Effect in Out-of-distribution Detection**
+
+- Paper: https://arxiv.org/abs/2602.20068
+- Code: https://github.com/HarryAnthony/Invisible_Gorilla_Effect
 
   
