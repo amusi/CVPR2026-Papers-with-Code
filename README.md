@@ -105,6 +105,12 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 3DGS(Gaussian Splatting)
 
+**Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting**
+
+- Paper: https://arxiv.org/abs/2602.20933
+- Code: 
+- Project: https://sk-fun.fun/DropAnSH-GS
+
 
 <a name="Agent"></a>
 
@@ -170,7 +176,10 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 多模态大语言模型(MLLM)
 
+**Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking**
 
+- Paper: https://arxiv.org/abs/2602.20330
+- Code: https://github.com/UIUC-MONET/vlm-circuit-tracing
 
 
 <a name="LLM"></a>
@@ -218,6 +227,11 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - Paper: https://arxiv.org/abs/2602.19870
 - Code: https://github.com/MaQianKun0/ApET
 
+**Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking**
+
+- Paper: https://arxiv.org/abs/2602.20330
+- Code: https://github.com/UIUC-MONET/vlm-circuit-tracing
+
 
 <a name="Object-Detection"></a>
 
@@ -260,6 +274,10 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 3D点云(3D-Point-Cloud)
 
+**CLIPoint3D: Language-Grounded Few-Shot Unsupervised 3D Point Cloud Domain Adaptation**
+
+- Paper: https://arxiv.org/abs/2602.20409
+- Code: https://github.com/SarthakM320/CLIPoint3D
 
 
 <a name="3DOD"></a>
@@ -478,4 +496,18 @@ Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Obs
 - Paper: https://arxiv.org/abs/2602.20068
 - Code: https://github.com/HarryAnthony/Invisible_Gorilla_Effect
 
+**SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images**
+
+- Paper: https://arxiv.org/abs/2602.20412
+- Code: 
+
+**RecoverMark: Robust Watermarking for Localization and Recovery of Manipulated Faces**
+
+- Paper: https://arxiv.org/abs/2602.20618
+- Code: 
+
+**Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models**
+
+- Paper:
+- Code: 
   
