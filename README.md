@@ -341,8 +341,17 @@ ExpPortrait: Expressive Portrait Generation via Personalized Representation
 
 # 视频生成(Video Generation)
 
+**OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer**
 
+- Paper: https://arxiv.org/abs/2601.14250
+- Project: https://pangzecheung.github.io/OmniTransfer/
+- Code: https://github.com/PangzeCheung/OmniTransfer
 
+**DreamStyle: A Unified Framework for Video Stylization**
+
+- Paper: https://arxiv.org/abs/2601.02785
+- Project: https://lemonsky1995.github.io/dreamstyle/
+- Code: https://github.com/LemonSky1995/DreamStyle
 
 <a name="Image-Editing"></a>
 
