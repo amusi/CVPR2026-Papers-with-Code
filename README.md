@@ -28,6 +28,8 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - [GNN](#GNN)
 - [多模态大语言模型(MLLM)](#MLLM)
 - [大语言模型(LLM)](#LLM)
+- [具身智能(Embodied AI)](#Embodied)
+- [空间智能(Spatial Intelligence](#SI)
 - [NAS](#NAS)
 - [OCR](#OCR)
 - [NeRF](#NeRF)
@@ -72,12 +74,12 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - [3D生成(3D Generation)](#3D-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [行为检测(Action Detection)](#Action-Detection)
-- [具身智能(Embodied AI)](#Embodied)
 - [遥感(Remote)](#Remote)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [模型剪枝(Model Pruning)](#Pruning)
 - [图像压缩(Image Compression)](#IC)
+- [视频压缩(Video Compression)](#VC)
 - [三维重建(3D Reconstruction)](#3D-Reconstruction)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [轨迹预测(Trajectory Prediction)](#TP)
@@ -92,6 +94,7 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - [特征匹配(Feature Matching)](#Feature-Matching)
 - [暗光图像增强(Low-light Image Enhancement)](#Low-light)
 - [场景图生成(Scene Graph Generation)](#SGG)
+- [图像检索(Image Retrieval)](#Image-Retrieval)
 - [风格迁移(Style Transfer)](#ST)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
@@ -110,6 +113,17 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - Paper: https://arxiv.org/abs/2602.20933
 - Code: 
 - Project: https://sk-fun.fun/DropAnSH-GS
+
+**Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking**
+
+- Paper: https://arxiv.org/abs/2512.01329
+- Project: https://haza628.github.io/tagSplat/
+
+**FastGS: Training 3D Gaussian Splatting in 100 Seconds**
+
+- Paper: https://arxiv.org/pdf/2511.04283
+- Code: https://github.com/fastgs/FastGS
+- Project: https://fastgs.github.io/
 
 
 <a name="Agent"></a>
@@ -139,11 +153,6 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # Mamba
 
-
-
-<a name="Embodied-AI"></a>
-
-# Embodied AI
 
 
 <a name="GAN"></a>
@@ -181,12 +190,41 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 - Paper: https://arxiv.org/abs/2602.20330
 - Code: https://github.com/UIUC-MONET/vlm-circuit-tracing
 
+**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**
+
+- Paper: https://arxiv.org/abs/2603.05075
+- Code: 
+- Project: https://any2any-mllm.github.io/unim/
+
+
 
 <a name="LLM"></a>
 
 # 大语言模型(LLM)
 
 
+<a name="Embodied-AI"></a>
+
+
+# 具身智能(Embodied AI)
+
+**Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI**
+
+- Paper: https://arxiv.org/abs/2511.20620
+- Code: https://github.com/ai4ce/wanderland
+- Project: https://ai4ce.github.io/wanderland/
+
+
+<a name="SI"></a>
+
+
+# 空间智能(Spatial Intelligence)
+
+**Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning**
+
+- Paper: https://arxiv.org/abs/2510.27606
+- Code: https://github.com/InternLM/Spatial-SSRL
+- Model: https://huggingface.co/internlm/Spatial-SSRL-7B
 
 
 <a name="NAS"></a>
@@ -198,7 +236,10 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 # ReID(重识别)
 
 
+**MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification**
 
+- Paper: https://arxiv.org/abs/2512.03404
+- Code: https://github.com/yjzhao1019/MOS
 
 
 <a name="Diffusion"></a>
@@ -263,13 +304,25 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 医学图像分割(Medical Image Segmentation)
 
+**MedCLIPSeg: Probabilistic Vision–Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation**
 
+- Paper: https://arxiv.org/abs/2602.20423
+- Code: https://github.com/HealthX-Lab/MedCLIPSeg
+- Project: https://tahakoleilat.github.io/MedCLIPSeg
 
 <a name="Autonomous-Driving"></a>
 
 # 自动驾驶(Autonomous Driving)
 
+**Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**
 
+- Paper: https://arxiv.org/pdf/2602.18853
+- Code: https://github.com/DZhaoXd/s2_corr
+
+**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**
+
+- Paper: https://arxiv.org/abs/2512.02982
+- Code: https://github.com/worldbench/U4D
 
 
 # 3D点云(3D-Point-Cloud)
@@ -395,10 +448,6 @@ ExpPortrait: Expressive Portrait Generation via Personalized Representation
 
 
 
-<a name="Embodied"></a>
-
-# 具身智能(Embodied AI)
-
 
 
 <a name="Remote"></a>
@@ -442,10 +491,31 @@ Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Obs
 
 
 
+<a name="VC"></a>
+
+# 视频压缩(Video Compression)](#VC)
+
+**UniComp: Rethinking Video Compression Through Informational Uniqueness**
+
+- Paper: https://arxiv.org/abs/2512.03575
+- Code: https://github.com/TimeMarker-LLM/UniComp
+
+
+
 <a name="SGG"></a>
 
 # 场景图生成(Scene Graph Generation)
 
+
+<a name="Image-Retrieval"></a>
+
+# 图像检索(Image Retrieval)
+
+**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing
+**
+
+- Paper: https://arxiv.org/abs/2603.04598
+- Code: 
 
 
 <a name="ST"></a>
@@ -510,4 +580,22 @@ Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Obs
 
 - Paper:
 - Code: 
+
+**GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement**
+
+- Paper: https://arxiv.org/abs/2603.05095
+- Code: 
+
+
+**FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation**
+
+- Paper: https://arxiv.org/abs/2603.04733
+- Code: https://github.com/eVI-group-SCU/FOZO
+
+**Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning
+**
+
+- Paper: https://arxiv.org/abs/2603.04825
+- Code: https://github.com/RyanZhaoIc/CAD
+
   
