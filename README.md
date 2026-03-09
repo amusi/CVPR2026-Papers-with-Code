@@ -208,6 +208,12 @@ CVPR 2026 decisions are now available on OpenReview！25.42% = 4090 / 16092
 
 # 具身智能(Embodied AI)
 
+**Structural Action Transformer for 3D Dexterous Manipulation**
+
+- Paper: https://arxiv.org/abs/2603.03960
+- Code: https://github.com/XiaohanLei/SAT
+- Project: https://xiaohanlei.github.io/projects/SAT/
+
 **Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI**
 
 - Paper: https://arxiv.org/abs/2511.20620
