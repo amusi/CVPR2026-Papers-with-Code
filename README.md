@@ -592,8 +592,7 @@ Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Obs
 - Paper: https://arxiv.org/abs/2603.04733
 - Code: https://github.com/eVI-group-SCU/FOZO
 
-**Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning
-**
+**Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning**
 
 - Paper: https://arxiv.org/abs/2603.04825
 - Code: https://github.com/RyanZhaoIc/CAD
